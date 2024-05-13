@@ -15,7 +15,7 @@
 - react-helmet-async 설치 `npm install react-helmet-async` : SEO(검색엔진)
 - swiper 설치 `npm install swiper` : 이미지 슬라이드
 
-## 사용 스택
+## 사용 스택                   
 - node.js 설치
 
 ## 프로젝트 실행
@@ -24,3 +24,6 @@
 ## 트러블 슈팅
 - node.js 설치 시 폴더 인식 못함 : 
 검색을 해보니 파일을 직접 추가해야했다.
+
+## 자동완성
+- rafce
