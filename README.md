@@ -27,3 +27,6 @@
 
 ## 자동완성
 - rafce
+
+## 압축
+- npm run build
